@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : Parcial.c
+ Name        : parcial_programacion.c
  Author      : 
  Version     :
  Copyright   : Your copyright notice
